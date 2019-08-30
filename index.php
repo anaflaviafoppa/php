@@ -1,7 +1,9 @@
 <?php
 
 
-	echo "teste 02";
+	echo "Teste de edição com conflito";
+
+	echo "Teste 03";
 
 
 
