@@ -1,9 +1,12 @@
 <?php
 
 
+
 	echo "teste 04";
 
-	echo "Testando - fiuheidufhs";
+
+	echo "Teste de edição com conflito";
+
 
 
 
