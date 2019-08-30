@@ -1,7 +1,9 @@
 <?php
 
 
-	echo "teste 02";
+	echo "teste 04";
+
+	echo "Testando - fiuheidufhs";
 
 
 
